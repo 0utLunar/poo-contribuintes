@@ -49,6 +49,6 @@ src/
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/seu-usuario/java-taxpayer-oo.git
+   git clone https://github.com/0utLunar/poo-contribuintes.git
    ```
 2. Abra na sua IDE e execute `Program.java`
